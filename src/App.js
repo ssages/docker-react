@@ -19,7 +19,7 @@ class App extends Component {
           >
             Learn React
           </a>
-          <p>I was changed</p>
+          <p>I was changed on the feature branch</p>
         </header>
       </div>
     );
